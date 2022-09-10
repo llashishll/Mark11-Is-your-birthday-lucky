@@ -1,2 +1,2 @@
 # Is your birthday lucky (Mark11)
- An app to check whether you birthdate is lucky or not 
+You can find out whether your birthday is lucky or not with this app !
