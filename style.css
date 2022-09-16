@@ -1,0 +1,65 @@
+#main-head{
+    text-align: center;
+    background-color:blueviolet;
+    padding: 1rem;
+}
+
+#label1{
+    color: blueviolet;
+    margin-left:37rem;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+#label2{
+    color: blueviolet;
+    margin-left:35rem;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+#birth-date{
+    text-align: center;
+    margin: 2rem 42rem;
+    padding: 1rem 2rem;
+    font-size: larger;
+    font-weight: 1000;
+    color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 1rem;
+}
+    
+
+
+#lucky-number{
+    
+margin: 2rem 43rem;
+border-color: blueviolet;
+border-radius: 1rem; 
+text-align: center;
+padding: 0rem ;
+}
+
+
+#sub-btn{
+
+    margin-left:43rem; 
+    margin-bottom: 2rem;
+    background-color: blueviolet;
+    border-radius: 4rem;
+    padding:1rem 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#output{
+    display:flexbox;
+    color: blueviolet;
+    font-size: xx-large;
+    text-align: center;
+    max-width:max-content;
+    margin: auto;
+
+
+}
