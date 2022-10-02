@@ -1,11 +1,11 @@
 #main-head{
     text-align: center;
-    background-color:blueviolet;
+    background-color:#a52b2b;
     padding: 1rem;
 }
 
 #label1{
-    color: blueviolet;
+    color: #a52b2b;
     margin-left:40rem;
     font-size:xx-large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -13,7 +13,7 @@
 
 }
 #label2{
-    color: blueviolet;
+    color:#a52b2b;
     margin-left:37rem;
     font-size:xx-large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -27,8 +27,8 @@
     padding: 1rem 2rem;
     font-size: larger;
     font-weight: 1000;
-    color: blueviolet;
-    border-color: blueviolet;
+    color: #a52b2b;
+    border-color: #a52b2b;
     border-radius: 1rem;
 }
     
@@ -37,7 +37,7 @@
 #lucky-number{
     
 margin: 2rem 45rem;
-border-color: blueviolet;
+border-color:#a52b2b;
 border-radius: 1rem; 
 text-align: center;
 padding: 0rem;
@@ -51,7 +51,7 @@ text-align: center;
 
     margin-left:42.5rem; 
     margin-bottom: 2rem;
-    background-color: blueviolet;
+    background-color: #a52b2b;
     color: aliceblue;
     border-radius: 4rem;
     padding:1rem 2rem;
@@ -59,13 +59,11 @@ text-align: center;
 }
 #output{
     display:flexbox;
-    color: blueviolet;
+    color:#a52b2b;
     font-size: xx-large;
     text-align: center;
     max-width:max-content;
     margin: auto;
-    border: 2px solid blueviolet;
-    border-radius:1rem;
     padding: 1rem;
 
 
